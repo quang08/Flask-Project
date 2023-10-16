@@ -1,17 +1,27 @@
 # Flask Web App Tutorial
 
-## Setup & Installation
+## Setup 
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Running The App
+## Chạy App
 
 ```bash
 python main.py
 ```
 
-## Viewing The App
+## Xem App
 
-Go to `http://127.0.0.1:5000`
+Truy cập `http://127.0.0.1:5000`
+
+### Bắt đầu phát triển
+
+Tạo git branch mới `git checkout -b [tên nhánh]`
+
+Code xong sử dụng lần lượt 3 lệch sau để push code:
+`git add .`
+`git commit -m [miêu tả phần việc mình vừa làm]`
+`git push`
+
